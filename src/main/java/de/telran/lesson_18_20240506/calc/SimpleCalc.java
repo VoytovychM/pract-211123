@@ -1,5 +1,10 @@
 package de.telran.lesson_18_20240506.calc;
 
+// Владимир - Short
+// Мария - Long
+// Евгения - Double
+// Ирина - Float
+// Алиса - Byte
 public class SimpleCalc {
     public static void main(String[] args) {
         NumericalOperations<Integer> calc = new CalcInteger();
